@@ -1,0 +1,59 @@
+﻿@model ProductViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="card card-body my-3">
+    <form asp-action="Index" method="get">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-auto">
+                        <select 
+                        name="category" 
+                        class="form-select" 
+                        asp-items="@(new SelectList(Repository.Categories,"CategoryId", "Name", Model.SelectedCategory));">
+                            <option value="0">Hepsi</option>
+                        </select>
+                </div>
+            
+                <div class="col-md-1">
+                    <button class="btn btn-primary" type="submit">Filtrele</button>
+                </div>
+                
+            </div>
+        </div>
+    </form>
+</div>
+<form action="" method="post">
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th style="width:30px;">@Html.DisplayNameFor(m => m.Products[0].ProductId)</th>
+            <th style="width:100px;">@Html.DisplayNameFor(m => m.Products[0].Image)</th>
+            <th>@Html.DisplayNameFor(m => m.Products[0].Name)</th>
+            <th style="width:100px;">@Html.DisplayNameFor(m => m.Products[0].Price)</th>
+            <td></td>
+            <th style="width:130px;"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @for(var i=0; i < @Model.Products.Count; i++)
+        {
+            <tr>
+                <td>@Model.Products[i].ProductId</td>
+                <td>
+                    <img src="~/img/@Model.Products[i].Image" alt="" class="img-fluid">
+                </td>
+                <td>@Model.Products[i].Name</td>
+                <td>@Model.Products[i].Price</td>
+                <td>
+                    <input type="checkbox" asp-for="@Model.Products[i].IsActive" id="">
+                </td>
+                <td>
+                    <a class="btn btn-primary btn-sm" href="/home/Edit/@@Model.Products[i].ProductId">Edit </a>
+                    <a class="btn btn-sm btn-danger" href="/home/Delete/@Model.Products[i].ProductId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</form>
