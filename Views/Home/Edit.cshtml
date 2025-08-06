@@ -31,15 +31,9 @@ ViewData["Title"] = "Edit";
         <input type="file" name="imageFile" id="imageFile" class="form-control" />
     </div>
 
-    <div class="mb-3">
-        <label asp-for="Description" class="m-2">Açıklama</label>
-        <input class="form-control" asp-for="Description" placeholder="Açıklamnayı Girin Girin" />
-        <span asp-validation-for="Description"></span>
-
-    </div>
     <div class="mb-3 form-check">
-        <input asp-for="IsAvailable" class="form-check-label">
-        <label asp-for="IsAvailable" class="form-check-label"></label>
+        <input asp-for="IsActive" class="form-check-label">
+        <label asp-for="IsActive" class="form-check-label"></label>
     </div>
 
     <button type="submit" class="btn btn-primary">Kaydet</button>

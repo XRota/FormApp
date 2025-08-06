@@ -741,6 +741,416 @@
       ]
     },
     {
+      "Route": "img/Iphone14image.hlpxtcnlef.jpg",
+      "AssetFile": "img/Iphone14image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K2Px0Ib7hc7Qd1a410BZDMNfE7GVGElXFVhXj89JuLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 10:39:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hlpxtcnlef"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K2Px0Ib7hc7Qd1a410BZDMNfE7GVGElXFVhXj89JuLc="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Iphone14image.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Iphone14image.jpg",
+      "AssetFile": "img/Iphone14image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K2Px0Ib7hc7Qd1a410BZDMNfE7GVGElXFVhXj89JuLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 10:39:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K2Px0Ib7hc7Qd1a410BZDMNfE7GVGElXFVhXj89JuLc="
+        }
+      ]
+    },
+    {
+      "Route": "img/galaxy-s25-image.jpg",
+      "AssetFile": "img/galaxy-s25-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Amm/4rrCR66yLoDbQ6gEgR6Zj9c0JJg+hVciC20CfOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 10:44:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Amm/4rrCR66yLoDbQ6gEgR6Zj9c0JJg+hVciC20CfOg="
+        }
+      ]
+    },
+    {
+      "Route": "img/galaxy-s25-image.u0ucghsryk.jpg",
+      "AssetFile": "img/galaxy-s25-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Amm/4rrCR66yLoDbQ6gEgR6Zj9c0JJg+hVciC20CfOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 10:44:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u0ucghsryk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Amm/4rrCR66yLoDbQ6gEgR6Zj9c0JJg+hVciC20CfOg="
+        },
+        {
+          "Name": "label",
+          "Value": "img/galaxy-s25-image.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/iphone-15-image.jpg",
+      "AssetFile": "img/iphone-15-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fze8hM/0N15YNaDsEgkoORCBrpLv1aXYdR95xrupz10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 10:41:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fze8hM/0N15YNaDsEgkoORCBrpLv1aXYdR95xrupz10="
+        }
+      ]
+    },
+    {
+      "Route": "img/iphone-15-image.rjtajw5fc7.jpg",
+      "AssetFile": "img/iphone-15-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fze8hM/0N15YNaDsEgkoORCBrpLv1aXYdR95xrupz10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 10:41:14 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rjtajw5fc7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fze8hM/0N15YNaDsEgkoORCBrpLv1aXYdR95xrupz10="
+        },
+        {
+          "Name": "label",
+          "Value": "img/iphone-15-image.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/macbook-air-image.l17x0zhfzy.png",
+      "AssetFile": "img/macbook-air-image.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FyLDxj8iW6ms+fiXyUN83yaaNXCJpZsx58k0cZeplCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 10:40:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l17x0zhfzy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FyLDxj8iW6ms+fiXyUN83yaaNXCJpZsx58k0cZeplCA="
+        },
+        {
+          "Name": "label",
+          "Value": "img/macbook-air-image.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/macbook-air-image.png",
+      "AssetFile": "img/macbook-air-image.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234670"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FyLDxj8iW6ms+fiXyUN83yaaNXCJpZsx58k0cZeplCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 10:40:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FyLDxj8iW6ms+fiXyUN83yaaNXCJpZsx58k0cZeplCA="
+        }
+      ]
+    },
+    {
+      "Route": "img/rog-strix-image.76bjr0qxjo.jpg",
+      "AssetFile": "img/rog-strix-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sWUNyDD///+mN0urwSjjcjRZFsiOaHrH8B8DzP9K/i0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 10:40:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "76bjr0qxjo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sWUNyDD///+mN0urwSjjcjRZFsiOaHrH8B8DzP9K/i0="
+        },
+        {
+          "Name": "label",
+          "Value": "img/rog-strix-image.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/rog-strix-image.jpg",
+      "AssetFile": "img/rog-strix-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sWUNyDD///+mN0urwSjjcjRZFsiOaHrH8B8DzP9K/i0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 10:40:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sWUNyDD///+mN0urwSjjcjRZFsiOaHrH8B8DzP9K/i0="
+        }
+      ]
+    },
+    {
       "Route": "js/site.6b9nfc4n3r.js",
       "AssetFile": "js/site.js",
       "Selectors": [],

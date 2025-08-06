@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Home Transfer\\Web\\Sadık Turan - udemy ders\\FormsApp\\FormsApp.csproj": {}
+    "D:\\Home Transfer\\Web\\FormApp\\FormsApp.csproj": {}
   },
   "projects": {
-    "D:\\Home Transfer\\Web\\Sadık Turan - udemy ders\\FormsApp\\FormsApp.csproj": {
+    "D:\\Home Transfer\\Web\\FormApp\\FormsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Home Transfer\\Web\\Sadık Turan - udemy ders\\FormsApp\\FormsApp.csproj",
+        "projectUniqueName": "D:\\Home Transfer\\Web\\FormApp\\FormsApp.csproj",
         "projectName": "FormsApp",
-        "projectPath": "D:\\Home Transfer\\Web\\Sadık Turan - udemy ders\\FormsApp\\FormsApp.csproj",
+        "projectPath": "D:\\Home Transfer\\Web\\FormApp\\FormsApp.csproj",
         "packagesPath": "C:\\Users\\ikora\\.nuget\\packages\\",
-        "outputPath": "D:\\Home Transfer\\Web\\Sadık Turan - udemy ders\\FormsApp\\obj\\",
+        "outputPath": "D:\\Home Transfer\\Web\\FormApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ikora\\AppData\\Roaming\\NuGet\\NuGet.Config"

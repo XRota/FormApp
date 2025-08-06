@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zaXCes3BpTw=",
+  "dgSpecHash": "3beGmGOs1d4=",
   "success": true,
-  "projectFilePath": "D:\\Home Transfer\\Web\\Sadık Turan - udemy ders\\FormsApp\\FormsApp.csproj",
+  "projectFilePath": "D:\\Home Transfer\\Web\\FormApp\\FormsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ikora\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\ikora\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",

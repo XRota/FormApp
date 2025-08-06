@@ -31,3 +31,37 @@ D:\Home Transfer\Web\Sadık Turan - udemy ders\FormsApp\obj\Debug\net7.0\refint\
 D:\Home Transfer\Web\Sadık Turan - udemy ders\FormsApp\obj\Debug\net7.0\FormsApp.pdb
 D:\Home Transfer\Web\Sadık Turan - udemy ders\FormsApp\obj\Debug\net7.0\FormsApp.genruntimeconfig.cache
 D:\Home Transfer\Web\Sadık Turan - udemy ders\FormsApp\obj\Debug\net7.0\ref\FormsApp.dll
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\FormsApp.AssemblyInfoInputs.cache
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\FormsApp.AssemblyInfo.cs
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\FormsApp.csproj.CoreCompileInputs.cache
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\FormsApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cache
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cs
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\FormsApp.sourcelink.json
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\FormsApp.dll
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\refint\FormsApp.dll
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\FormsApp.pdb
+D:\Home Transfer\Web\FormApp\bin\Debug\net7.0\appsettings.Development.json
+D:\Home Transfer\Web\FormApp\bin\Debug\net7.0\appsettings.json
+D:\Home Transfer\Web\FormApp\bin\Debug\net7.0\FormsApp.staticwebassets.runtime.json
+D:\Home Transfer\Web\FormApp\bin\Debug\net7.0\FormsApp.staticwebassets.endpoints.json
+D:\Home Transfer\Web\FormApp\bin\Debug\net7.0\FormsApp.exe
+D:\Home Transfer\Web\FormApp\bin\Debug\net7.0\FormsApp.deps.json
+D:\Home Transfer\Web\FormApp\bin\Debug\net7.0\FormsApp.runtimeconfig.json
+D:\Home Transfer\Web\FormApp\bin\Debug\net7.0\FormsApp.dll
+D:\Home Transfer\Web\FormApp\bin\Debug\net7.0\FormsApp.pdb
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\scopedcss\bundle\FormsApp.styles.css
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\scopedcss\projectbundle\FormsApp.bundle.scp.css
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\staticwebassets.build.json
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\staticwebassets.development.json
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\staticwebassets\msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\staticwebassets\msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FormsApp.props
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FormsApp.props
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FormsApp.props
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\FormsApp.genruntimeconfig.cache
+D:\Home Transfer\Web\FormApp\obj\Debug\net7.0\ref\FormsApp.dll
