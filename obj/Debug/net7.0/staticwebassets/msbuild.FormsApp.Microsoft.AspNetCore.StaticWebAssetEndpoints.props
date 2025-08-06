@@ -36,6 +36,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nfqdac426k"},{"Name":"integrity","Value":"sha256-E4EoF9/LM/Up0VWkn67/3AYCcPRyIjV3aGUkW9U1CfA="},{"Name":"label","Value":"_content/FormsApp/FormsApp.bundle.scp.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1125"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022E4EoF9/LM/Up0VWkn67/3AYCcPRyIjV3aGUkW9U1CfA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 06 Aug 2025 21:16:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FormsApp/img/077ed601-58a4-4132-a22b-2391cef0519d.2ezsva52jd.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\077ed601-58a4-4132-a22b-2391cef0519d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2ezsva52jd"},{"Name":"integrity","Value":"sha256-1qaHbf\u002BeXaaMMdzqmCZSw/1qQW9ayGkOLV9Gmo3NoOs="},{"Name":"label","Value":"_content/FormsApp/img/077ed601-58a4-4132-a22b-2391cef0519d.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1121763"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221qaHbf\u002BeXaaMMdzqmCZSw/1qQW9ayGkOLV9Gmo3NoOs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 06 Aug 2025 21:33:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FormsApp/img/077ed601-58a4-4132-a22b-2391cef0519d.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\077ed601-58a4-4132-a22b-2391cef0519d.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1qaHbf\u002BeXaaMMdzqmCZSw/1qQW9ayGkOLV9Gmo3NoOs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1121763"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221qaHbf\u002BeXaaMMdzqmCZSw/1qQW9ayGkOLV9Gmo3NoOs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 06 Aug 2025 21:33:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/FormsApp/img/1-kirmizi.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\1-kirmizi.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

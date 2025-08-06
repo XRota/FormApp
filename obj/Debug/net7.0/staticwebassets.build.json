@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5HOM6tpiUqpKLkHYR9pG0/qHItLgmziQGyAvc+s8H3M=",
+  "Hash": "/mMvc03gPkSCnjTQfpDht/6ysbLDf1MzKJOWgmNaeKA=",
   "Source": "FormsApp",
   "BasePath": "_content/FormsApp",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Home Transfer\\Web\\FormApp\\wwwroot\\img\\077ed601-58a4-4132-a22b-2391cef0519d.png",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Home Transfer\\Web\\FormApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/077ed601-58a4-4132-a22b-2391cef0519d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2ezsva52jd",
+      "Integrity": "1qaHbf+eXaaMMdzqmCZSw/1qQW9ayGkOLV9Gmo3NoOs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\077ed601-58a4-4132-a22b-2391cef0519d.png"
     },
     {
       "Identity": "D:\\Home Transfer\\Web\\FormApp\\wwwroot\\img\\1-kirmizi.jpg",
@@ -1876,6 +1897,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-E4EoF9/LM/Up0VWkn67/3AYCcPRyIjV3aGUkW9U1CfA="
+        }
+      ]
+    },
+    {
+      "Route": "img/077ed601-58a4-4132-a22b-2391cef0519d.2ezsva52jd.png",
+      "AssetFile": "D:\\Home Transfer\\Web\\FormApp\\wwwroot\\img\\077ed601-58a4-4132-a22b-2391cef0519d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1121763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qaHbf+eXaaMMdzqmCZSw/1qQW9ayGkOLV9Gmo3NoOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 21:33:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ezsva52jd"
+        },
+        {
+          "Name": "label",
+          "Value": "img/077ed601-58a4-4132-a22b-2391cef0519d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qaHbf+eXaaMMdzqmCZSw/1qQW9ayGkOLV9Gmo3NoOs="
+        }
+      ]
+    },
+    {
+      "Route": "img/077ed601-58a4-4132-a22b-2391cef0519d.png",
+      "AssetFile": "D:\\Home Transfer\\Web\\FormApp\\wwwroot\\img\\077ed601-58a4-4132-a22b-2391cef0519d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1121763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qaHbf+eXaaMMdzqmCZSw/1qQW9ayGkOLV9Gmo3NoOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 21:33:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qaHbf+eXaaMMdzqmCZSw/1qQW9ayGkOLV9Gmo3NoOs="
         }
       ]
     },
