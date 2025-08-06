@@ -1,40 +1,46 @@
 ﻿@model Product
 @{
-    ViewData["Title"] = "Edit";
+ViewData["Title"] = "Edit";
 }
-<h1>@ViewData["Title"]</h1>
+
 <form asp-controller="Home" asp-action="Edit" method="post" enctype="multipart/form-data">
     <div asp-validation-summary="All"></div>
-    <input type="hidden" asp-for="ProductId">
+
+
     <div class="mb-3">
-        <label asp-for="Name" class="form-label"></label>
-        <input asp-for="Name" class="form-control">
-        <span asp-validation-for="Name"></span>
-    </div>
-    <div class="mb-3">
-        <label asp-for="Price" class="form-label"></label>
-        <input asp-for="Price" class="form-control">
-        <span asp-validation-for="Price"></span>
-    </div>
-    <div>
-        <img src="~/img/@Model.Image" alt="" style="width: 100px;">
-        <input type="hidden" asp-for="@Model.Image">
-    </div>
-    <div class="mb-3 input-group">
-        <input type="file" name="imageFile"  class="form-control">
-    </div>
-    
-    <div class="mb-3">
-        <label asp-for="CategoryId" class="form-label"></label>
-        <select asp-for="CategoryId" class="form-select" asp-items="@ViewBag.Categories">
-            <option value="">Hepsi</option>
+        <label asp-for="CategoryId" class="m-2">Kategori</label>
+        <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-select">
+            <option value="">Seçin</option>
         </select>
+        <span asp-validation-for="CategoryId"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Name" class="m-2">Ürün adı</label>
+        <input class="form-control" asp-for="Name" placeholder="Ürün Adını Girin" />
+        <span asp-validation-for="Name"></span>
+
+    </div>
+    <div class="mb-3">
+        <label asp-for="Price" class="m-2">Fiyat</label>
+        <input class="form-control" asp-for="Price" placeholder="Fiyatı Girin" />
+        <span asp-validation-for="Price"></span>
+
+    </div>
+
+    <div class="input-group mb-3">
+        <input type="file" name="imageFile" id="imageFile" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description" class="m-2">Açıklama</label>
+        <input class="form-control" asp-for="Description" placeholder="Açıklamnayı Girin Girin" />
+        <span asp-validation-for="Description"></span>
+
     </div>
     <div class="mb-3 form-check">
-        <input asp-for="IsActive" class="form-check-input"> 
-        <label asp-for="IsActive" class="form-check-label"></label>
-        <span asp-validation-for="IsActive"></span>
+        <input asp-for="IsAvailable" class="form-check-label">
+        <label asp-for="IsAvailable" class="form-check-label"></label>
     </div>
-    <button type="submit" class="btn btn-primary">Ekle</button>
-</form>
 
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

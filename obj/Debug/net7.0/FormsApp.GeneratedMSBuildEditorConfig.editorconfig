@@ -9,47 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FormsApp
 build_property.RootNamespace = FormsApp
-build_property.ProjectDir = D:\Depo\Github Local Repository\FormApp\
+build_property.ProjectDir = D:\Home Transfer\Web\Sadık Turan - udemy ders\FormsApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Depo\Github Local Repository\FormApp
+build_property.MSBuildProjectDirectory = D:\Home Transfer\Web\Sadık Turan - udemy ders\FormsApp
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 7.0
+build_property.EnableCodeStyleSeverity = 
 
-[D:/Depo/Github Local Repository/FormApp/Views/Home/Create.cshtml]
+[D:/Home Transfer/Web/Sadık Turan - udemy ders/FormsApp/Views/Home/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Depo/Github Local Repository/FormApp/Views/Home/DeleteConfirm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVDb25maXJtLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Depo/Github Local Repository/FormApp/Views/Home/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Depo/Github Local Repository/FormApp/Views/Home/Index.cshtml]
+[D:/Home Transfer/Web/Sadık Turan - udemy ders/FormsApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Depo/Github Local Repository/FormApp/Views/Shared/Error.cshtml]
+[D:/Home Transfer/Web/Sadık Turan - udemy ders/FormsApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Depo/Github Local Repository/FormApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Home Transfer/Web/Sadık Turan - udemy ders/FormsApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Depo/Github Local Repository/FormApp/Views/_ViewImports.cshtml]
+[D:/Home Transfer/Web/Sadık Turan - udemy ders/FormsApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Depo/Github Local Repository/FormApp/Views/_ViewStart.cshtml]
+[D:/Home Transfer/Web/Sadık Turan - udemy ders/FormsApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Depo/Github Local Repository/FormApp/Views/Shared/_Layout.cshtml]
+[D:/Home Transfer/Web/Sadık Turan - udemy ders/FormsApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-88tng7wfa8
