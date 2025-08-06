@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/mMvc03gPkSCnjTQfpDht/6ysbLDf1MzKJOWgmNaeKA=",
+  "Hash": "98++YS7Au3SjmxdCVXKqXEsh1Xq5rH+Gpf/9XtbF22o=",
   "Source": "FormsApp",
   "BasePath": "_content/FormsApp",
   "Mode": "Default",
@@ -246,6 +246,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\6.jpg"
+    },
+    {
+      "Identity": "D:\\Home Transfer\\Web\\FormApp\\wwwroot\\img\\815e5162-a038-4a6c-bd69-30cc94baaa94.jpg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Home Transfer\\Web\\FormApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/815e5162-a038-4a6c-bd69-30cc94baaa94#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u0ucghsryk",
+      "Integrity": "Amm/4rrCR66yLoDbQ6gEgR6Zj9c0JJg+hVciC20CfOg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\815e5162-a038-4a6c-bd69-30cc94baaa94.jpg"
     },
     {
       "Identity": "D:\\Home Transfer\\Web\\FormApp\\wwwroot\\img\\galaxy-s25-image.jpg",
@@ -2471,6 +2492,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-q7v1PGZjXRekY1kSy9rzoF/sykmqTPdYXtSzVIZXKwU="
+        }
+      ]
+    },
+    {
+      "Route": "img/815e5162-a038-4a6c-bd69-30cc94baaa94.jpg",
+      "AssetFile": "D:\\Home Transfer\\Web\\FormApp\\wwwroot\\img\\815e5162-a038-4a6c-bd69-30cc94baaa94.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Amm/4rrCR66yLoDbQ6gEgR6Zj9c0JJg+hVciC20CfOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 22:06:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Amm/4rrCR66yLoDbQ6gEgR6Zj9c0JJg+hVciC20CfOg="
+        }
+      ]
+    },
+    {
+      "Route": "img/815e5162-a038-4a6c-bd69-30cc94baaa94.u0ucghsryk.jpg",
+      "AssetFile": "D:\\Home Transfer\\Web\\FormApp\\wwwroot\\img\\815e5162-a038-4a6c-bd69-30cc94baaa94.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Amm/4rrCR66yLoDbQ6gEgR6Zj9c0JJg+hVciC20CfOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 22:06:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u0ucghsryk"
+        },
+        {
+          "Name": "label",
+          "Value": "img/815e5162-a038-4a6c-bd69-30cc94baaa94.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Amm/4rrCR66yLoDbQ6gEgR6Zj9c0JJg+hVciC20CfOg="
         }
       ]
     },

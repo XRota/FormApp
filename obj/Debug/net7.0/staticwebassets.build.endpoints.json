@@ -823,6 +823,88 @@
       ]
     },
     {
+      "Route": "img/815e5162-a038-4a6c-bd69-30cc94baaa94.jpg",
+      "AssetFile": "img/815e5162-a038-4a6c-bd69-30cc94baaa94.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Amm/4rrCR66yLoDbQ6gEgR6Zj9c0JJg+hVciC20CfOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 22:06:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Amm/4rrCR66yLoDbQ6gEgR6Zj9c0JJg+hVciC20CfOg="
+        }
+      ]
+    },
+    {
+      "Route": "img/815e5162-a038-4a6c-bd69-30cc94baaa94.u0ucghsryk.jpg",
+      "AssetFile": "img/815e5162-a038-4a6c-bd69-30cc94baaa94.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Amm/4rrCR66yLoDbQ6gEgR6Zj9c0JJg+hVciC20CfOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 06 Aug 2025 22:06:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u0ucghsryk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Amm/4rrCR66yLoDbQ6gEgR6Zj9c0JJg+hVciC20CfOg="
+        },
+        {
+          "Name": "label",
+          "Value": "img/815e5162-a038-4a6c-bd69-30cc94baaa94.jpg"
+        }
+      ]
+    },
+    {
       "Route": "img/Iphone14image.hlpxtcnlef.jpg",
       "AssetFile": "img/Iphone14image.jpg",
       "Selectors": [],
