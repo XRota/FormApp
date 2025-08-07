@@ -6,12 +6,12 @@ namespace FormsApp.Models
 {
     public class Product
     {
-        [Display(Name="Urun Id")]
+        [Display(Name="Ürün Id")]
         public int ProductId { get; set; }
         
         [Required(ErrorMessage = "Gerekli bir alan")]
         [StringLength(100)]
-        [Display(Name="Urun Adı")]
+        [Display(Name="Ürün Adı")]
         public string Name { get; set; } = null!;
 
         [Required]

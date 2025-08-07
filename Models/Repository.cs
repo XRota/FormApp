@@ -11,13 +11,13 @@ namespace FormsApp.Models
             _categories.Add(new Category { CategoryId = 1, Name = "Telefon" });
             _categories.Add(new Category { CategoryId = 2, Name = "Bilgisayar" });
 
-            _products.Add(new Product {ProductId = 1, Name = "IPhone 14 Kırmızı", Price = 40000, IsActive = true,Image = "1-kirmizi.jpg",CategoryId = 1 });
-            _products.Add(new Product {ProductId = 2, Name = "IPhone 14 Siyah", Price = 50000, IsActive = true,Image = "2-siyah.jpg",CategoryId = 1 });
-            _products.Add(new Product {ProductId = 3, Name = "IPhone 14 Sarı", Price = 60000, IsActive = true,Image = "3-sari.jpg",CategoryId = 1 });
-            _products.Add(new Product {ProductId = 4, Name = "IPhone 14 Beyaz", Price = 70000, IsActive = true,Image = "4-beyaz.jpg",CategoryId = 1 });
-            
-            _products.Add(new Product {ProductId = 5, Name = "Macbook Air", Price = 80000, IsActive = true,Image = "5.jpg",CategoryId = 2 });
-            _products.Add(new Product {ProductId = 6, Name = "Macbook Pro", Price = 90000, IsActive = true,Image = "6.jpg",CategoryId = 2 });
+            _products.Add(new Product { ProductId = 1, Name = "IPhone 14 Kırmızı", Price = 40000, IsActive = false, Image = "1-kirmizi.jpg", CategoryId = 1 });
+            _products.Add(new Product { ProductId = 2, Name = "IPhone 14 Siyah", Price = 50000, IsActive = true, Image = "2-siyah.jpg", CategoryId = 1 });
+            _products.Add(new Product { ProductId = 3, Name = "IPhone 14 Sarı", Price = 60000, IsActive = true, Image = "3-sari.jpg", CategoryId = 1 });
+            _products.Add(new Product { ProductId = 4, Name = "IPhone 14 Beyaz", Price = 70000, IsActive = false, Image = "4-beyaz.jpg", CategoryId = 1 });
+
+            _products.Add(new Product { ProductId = 5, Name = "Macbook Air", Price = 80000, IsActive = true, Image = "5.jpg", CategoryId = 2 });
+            _products.Add(new Product { ProductId = 6, Name = "Macbook Pro", Price = 90000, IsActive = false, Image = "6.jpg", CategoryId = 2 });
         }
 
         public static List<Product> Products
@@ -35,16 +35,31 @@ namespace FormsApp.Models
 
         public static void EditProduct(Product updatedProduct)
         {
-            var entity=_products.FirstOrDefault(p => p.ProductId == updatedProduct.ProductId);
+            var entity = _products.FirstOrDefault(p => p.ProductId == updatedProduct.ProductId);
             if (entity != null)
             {
-                entity.Name = updatedProduct.Name;
+                if (!string.IsNullOrEmpty(updatedProduct.Name))
+                {
+                    entity.Name = updatedProduct.Name;
+                }
                 entity.Price = updatedProduct.Price;
                 entity.Image = updatedProduct.Image;
                 entity.IsActive = updatedProduct.IsActive;
                 entity.CategoryId = updatedProduct.CategoryId;
             }
         }
+        public static void EditIsActive(Product updatedProduct)
+        {
+            var entity = _products.FirstOrDefault(p => p.ProductId == updatedProduct.ProductId);
+            if (entity != null)
+            {
+                entity.IsActive = updatedProduct.IsActive;
+
+
+            }
+        }
+
+
         public static void DeleteProduct(Product deletedProduct)
         {
             var entity = _products.FirstOrDefault(p => p.ProductId == deletedProduct.ProductId);
@@ -52,7 +67,7 @@ namespace FormsApp.Models
             {
                 _products.Remove(entity);
             }
-            
+
         }
         public static List<Category> Categories
         {
